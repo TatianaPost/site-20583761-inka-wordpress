@@ -1,0 +1,202 @@
+v.1.4.2 January 2, 2019
+---------------------------------------------------
+- Fixed:
+  Gutenberg alignment styles fix
+
+
+v.1.4.1 January 1, 2019
+---------------------------------------------------
+- Fixed:
+  Gutenberg styles from dynamic customizer settings are now showing properly
+
+
+v.1.4.0 December 22, 2018
+---------------------------------------------------
+- New:
+  compatibility with Gutenberg and WordPress 5.0
+
+
+v.1.3.0 December 18, 2018
+---------------------------------------------------
+- New:
+  layout options for archives pages
+  layout options for regular pages
+
+- Improved:
+  widgets and some functions moved to the deo-core plugin
+  child-theme ordering of customizer and parent theme styles
+
+
+v.1.2.0 November 3, 2018
+---------------------------------------------------
+- New:
+  numbered pagination option
+  navigation height option
+  navigation colors option
+  retina logo upload option 
+  sidebar instagram widget styles
+  post excerpt option
+  socials share new icons (Pocket, Email)
+  socials share icons option
+  sidebar page template layout
+
+- Improved:
+  blog layout options are now combined in customizer Layout panel 
+
+
+v.1.1.4 October 1, 2018
+---------------------------------------------------
+- Fixed:
+  Bug with an unordered list on pages
+
+
+v.1.1.3 October 1, 2018
+---------------------------------------------------
+- Fixed:
+  Bug with social icons in the navbar
+  Bug with an ordered list in a single post
+
+
+v.1.1.2 September 23, 2018
+---------------------------------------------------
+- Added:
+  RSS and Bloglovin icons
+
+- Improved:
+  Kirki plugin removed from theme, moved to a required third party plugins
+
+- Fixed:
+  Search icon bug fix
+
+
+v.1.1.1 June 25, 2018
+---------------------------------------------------
+- Fixed:
+  /fonts folder placed in /assets folder
+
+
+v.1.1.0 June 24, 2018
+---------------------------------------------------
+- Added:
+  option to show/hide post date
+  option to show/hide post comments
+  option to show/hide post category
+  option to show/hide post share buttons
+  option to show/hide related posts
+  option to show/hide post tags
+  checkbox in comment form (for GDPR compliance)
+
+- Updated:
+  Kirki plugin to the latest version
+
+- Fixed:
+  Image uploader for about me widget
+
+- Changed:
+  /inc folder renamed to /includes
+  sass, css, js, img folders are now organized in one /assets folder
+
+- Files updated:
+  all PHP files
+  style.css
+  assets/js/widgets.js
+
+
+v.1.0.9 February 26, 2018
+---------------------------------------------------
+- Bug fix:
+  first gallery not showing on any posts
+  gallery styling
+
+- Files updated:
+  inc/functions-template.php
+  style.css
+
+
+v.1.0.8 January 30, 2018
+---------------------------------------------------
+- Bug fix:
+  comments on about/contact pages
+
+- Files updated:
+  page-about.php
+  page-contact.php
+
+
+v.1.0.7 December 9, 2017
+---------------------------------------------------
+- Bug fixes:
+  nav links alignment, instagram widget spacing
+  cusomizer colors bug due to the newest WordPress version
+
+- Folders updated:
+  inc/kirki
+
+- Files updated:
+  style.css
+
+
+v.1.0.6 October 31, 2017
+---------------------------------------------------
+- Bug fix:
+  can't set target attribute on footer link
+
+- Files updated:
+  inc/customizer.php
+
+
+v.1.0.5 October 29, 2017
+---------------------------------------------------
+- Bug fix:
+  child theme styles was loaded before customizer styles
+  navigation on mobile devices
+
+- Files updated:
+  style.css,
+  inka-child/functions.php
+
+
+v.1.0.4 October 22, 2017
+---------------------------------------------------
+- Feature Added:
+  switch to single hero post instead of slider in customizer
+
+- File added:
+  template-parts/featured-hero.php
+
+- Files updated:
+  inc/customizer.php,
+  index.php
+
+
+v.1.0.3 October 19, 2017
+---------------------------------------------------
+- Bug fix:
+  translated string "Share:"
+
+- Files updated:
+  template-parts/content-single.php,
+  languages/inka.pot
+
+
+v.1.0.2 October 6, 2017
+---------------------------------------------------
+- Bug fix:
+  social pinterest icon not showing
+
+- Files updated:
+  customizer.php
+
+- Updated: Documentation
+
+
+v.1.0.1 October 5, 2017
+---------------------------------------------------
+- Bug fix: style.css (navigation, instagram, hero slider)
+
+- Files updated: demo-content.xml
+
+
+v.1.0.0 September 26, 2017
+---------------------------------------------------
+- Initial Release

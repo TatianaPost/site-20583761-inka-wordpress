@@ -1,0 +1,27 @@
+/*-------------------------------------------------------*/
+/* Footer
+/*-------------------------------------------------------*/
+.footer ul {
+  list-style: none;
+}
+
+/* Bottom Footer
+-------------------------------------------------------*/
+
+.footer-bottom {
+  padding: 54px 0;
+}
+
+.copyright {
+  display: block;
+  font-size: 13px;
+  margin-top: 20px;
+
+  a {
+    color: $text-color;
+  }
+
+  a:hover {
+    color: $heading-color;
+  }
+}
